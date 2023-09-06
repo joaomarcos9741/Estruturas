@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1692365450 source:/home/alunos/Downloads/joaomarcos/main.cpp
+	"Listar.h"
+
+1692364250 /home/alunos/Downloads/joaomarcos/Listar.h
+	<iostream>
+
+1692364213 source:/home/alunos/Downloads/joaomarcos/Listar.cpp
+	"Listar.h"
+

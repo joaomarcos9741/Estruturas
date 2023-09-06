@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1692128169 source:/home/alunos/Downloads/j/main.cpp
+	"Fila.h"
+
+1692127520 /home/alunos/Downloads/j/Fila.h
+	<iostream>
+
+1692127524 source:/home/alunos/Downloads/j/Fila.cpp
+	"Fila.h"
+
